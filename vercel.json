@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/settings", "destination": "/settings.html" }
+    { "source": "/settings", "destination": "/monitor/settings.html" }
   ],
   "functions": {
     "api/**/*.js": {
